@@ -13,7 +13,7 @@ A collection of resources for learning Python
 
 ### Python 
 
-1.https://docs.python.org/3/contents.html
+1. https://docs.python.org/3/contents.html
 
 2. https://www.w3schools.com/python/default.asp
 
