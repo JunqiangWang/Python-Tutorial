@@ -22,6 +22,9 @@ A collection of resources for learning Python
 
 1. https://www.w3schools.com/python/numpy/numpy_array_join.asp
 
+### Pandas
+https://www.w3schools.com/python/pandas/pandas_intro.asp
+
 
 ### PyTorch 
 https://pytorch.org
