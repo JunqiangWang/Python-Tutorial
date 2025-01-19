@@ -23,14 +23,19 @@ A collection of resources for learning Python
 1. https://www.w3schools.com/python/numpy/numpy_array_join.asp
 
 ### Pandas
+
 https://www.w3schools.com/python/pandas/pandas_intro.asp
 
+### SciPy
+
+https://www.w3schools.com/python/scipy/index.php
 
 ### PyTorch 
+
 https://pytorch.org
 
-
 ### TensorFlow
+
 https://www.tensorflow.org/tutorials/structured_data/time_series#linear_model
 
 
